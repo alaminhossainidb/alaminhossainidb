@@ -1,6 +1,7 @@
+![Professional JAVA & Android Developer](https://media-exp1.licdn.com/dms/image/C4E03AQEjPjOgv0C42A/profile-displayphoto-shrink_100_100/0/1634368980450?e=1640822400&v=beta&t=3ZBRMbG5xP1HuqkvYHm-wQvPlmkrn9QAJ09vnC0B-U8)
 ### Hi there 👋, Md. Al-Amin Hossain
 #### Professional JAVA & Android Developer
-![Professional JAVA & Android Developer](https://media-exp1.licdn.com/dms/image/C4E03AQEjPjOgv0C42A/profile-displayphoto-shrink_100_100/0/1634368980450?e=1640822400&v=beta&t=3ZBRMbG5xP1HuqkvYHm-wQvPlmkrn9QAJ09vnC0B-U8)
+
 
 I love to take any kind of challenges and love to solve problems. 
 Coding is my passion and problem solving is my hobby.
